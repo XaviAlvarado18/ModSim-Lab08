@@ -1,0 +1,54 @@
+2024-10-29 00:23:13 | Configuracion: (50, 0.01, 3) | Distancia: 17602.11
+2024-10-29 00:24:42 | Configuracion: (50, 0.01, 5) | Distancia: 17382.81
+2024-10-29 00:26:09 | Configuracion: (50, 0.01, 10) | Distancia: 18089.02
+2024-10-29 00:29:34 | Configuracion: (50, 0.01, 15) | Distancia: 18284.02
+2024-10-29 00:33:05 | Configuracion: (50, 0.05, 3) | Distancia: 13868.66
+2024-10-29 00:36:49 | Configuracion: (50, 0.05, 5) | Distancia: 13831.04
+2024-10-29 00:39:46 | Configuracion: (50, 0.05, 10) | Distancia: 14281.46
+2024-10-29 00:43:22 | Configuracion: (50, 0.05, 15) | Distancia: 14395.81
+2024-10-29 00:46:05 | Configuracion: (50, 0.1, 3) | Distancia: 13473.61
+2024-10-29 00:49:36 | Configuracion: (50, 0.1, 5) | Distancia: 12920.32
+2024-10-29 00:53:03 | Configuracion: (50, 0.1, 10) | Distancia: 13051.36
+2024-10-29 00:56:25 | Configuracion: (50, 0.1, 15) | Distancia: 13840.36
+2024-10-29 00:59:30 | Configuracion: (50, 0.15, 3) | Distancia: 13985.72
+2024-10-29 01:02:33 | Configuracion: (50, 0.15, 5) | Distancia: 13031.78
+2024-10-29 01:06:00 | Configuracion: (50, 0.15, 10) | Distancia: 12783.09
+2024-10-29 01:09:21 | Configuracion: (50, 0.15, 15) | Distancia: 12196.33
+2024-10-29 01:12:38 | Configuracion: (100, 0.01, 3) | Distancia: 14057.43
+2024-10-29 01:19:38 | Configuracion: (100, 0.01, 5) | Distancia: 13885.38
+2024-10-29 01:25:58 | Configuracion: (100, 0.01, 10) | Distancia: 16406.65
+2024-10-29 01:32:51 | Configuracion: (100, 0.01, 15) | Distancia: 14419.54
+2024-10-29 01:36:19 | Configuracion: (100, 0.05, 3) | Distancia: 12226.10
+2024-10-29 01:39:23 | Configuracion: (100, 0.05, 5) | Distancia: 11442.36
+2024-10-29 01:42:41 | Configuracion: (100, 0.05, 10) | Distancia: 12289.99
+2024-10-29 01:46:00 | Configuracion: (100, 0.05, 15) | Distancia: 11260.64
+2024-10-29 01:48:55 | Configuracion: (100, 0.1, 3) | Distancia: 10744.95
+2024-10-29 01:51:57 | Configuracion: (100, 0.1, 5) | Distancia: 11401.57
+2024-10-29 01:54:59 | Configuracion: (100, 0.1, 10) | Distancia: 11748.59
+2024-10-29 01:57:57 | Configuracion: (100, 0.1, 15) | Distancia: 11929.57
+2024-10-29 02:00:52 | Configuracion: (100, 0.15, 3) | Distancia: 11983.14
+2024-10-29 02:03:55 | Configuracion: (100, 0.15, 5) | Distancia: 12320.46
+2024-10-29 02:06:56 | Configuracion: (100, 0.15, 10) | Distancia: 11673.74
+2024-10-29 02:09:55 | Configuracion: (100, 0.15, 15) | Distancia: 11113.50
+2024-10-29 02:12:51 | Configuracion: (150, 0.01, 3) | Distancia: 13048.03
+2024-10-29 02:17:29 | Configuracion: (150, 0.01, 5) | Distancia: 14792.20
+2024-10-29 02:22:04 | Configuracion: (150, 0.01, 10) | Distancia: 13517.05
+2024-10-29 02:26:37 | Configuracion: (150, 0.01, 15) | Distancia: 13705.16
+2024-10-29 02:31:07 | Configuracion: (150, 0.05, 3) | Distancia: 11421.76
+2024-10-29 02:35:44 | Configuracion: (150, 0.05, 5) | Distancia: 12140.46
+2024-10-29 02:40:21 | Configuracion: (150, 0.05, 10) | Distancia: 13023.41
+2024-10-29 02:44:54 | Configuracion: (150, 0.05, 15) | Distancia: 11948.78
+2024-10-29 02:49:24 | Configuracion: (150, 0.1, 3) | Distancia: 11419.82
+2024-10-29 02:54:02 | Configuracion: (150, 0.1, 5) | Distancia: 11289.23
+2024-10-29 02:58:36 | Configuracion: (150, 0.1, 10) | Distancia: 11192.38
+2024-10-29 03:03:10 | Configuracion: (150, 0.1, 15) | Distancia: 11225.55
+2024-10-29 03:07:41 | Configuracion: (150, 0.15, 3) | Distancia: 10473.13
+2024-10-29 08:15:49 | Configuracion: (150, 0.15, 5) | Distancia: 13274.83
+2024-10-29 08:20:23 | Configuracion: (150, 0.15, 10) | Distancia: 11197.36
+2024-10-29 08:24:58 | Configuracion: (150, 0.15, 15) | Distancia: 11697.56
+
+
+Mejor configuración encontrada: (150, 0.15, 3)
+Mejor distancia: 10473.13
+Ruta: [127, 67, 118, 90, 122, 139, 116, 56, 40, 37, 76, 121, 13, 79, 111, 135, 73, 12, 105, 103, 21, 61, 2, 72, 75, 86, 0, 47, 148, 124, 3, 114, 149, 20, 132, 137, 19, 109, 80, 85, 49, 134, 69, 107, 101, 113, 5, 27, 138, 39, 117, 126, 129, 16, 65, 59, 38, 100, 115, 42, 108, 24, 140, 57, 54, 136, 131, 64, 84, 141, 17, 142, 99, 4, 96, 74, 25, 55, 53, 133, 66, 11, 147, 10, 60, 35, 68, 23, 52, 50, 89, 82, 28, 98, 18, 1, 36, 8, 41, 119, 46, 45, 91, 32, 125, 123, 7, 6, 83, 29, 62, 112, 9, 93, 87, 78, 58, 120, 95, 88, 34, 92, 51, 110, 104, 130, 31, 22, 48, 146, 71, 77, 14, 15, 33, 97, 102, 81, 94, 106, 145, 143, 128, 26, 30, 144, 63, 43, 70, 44]
+PS C:\Users\rentt\Desktop\Universidad\4to Año\2do Semestre\ModSim\ModSim-Lab08> 
